@@ -1,4 +1,4 @@
-# ExamplePlugin
+# Plugin Template
 To start making plugins download this repositories files using GitHub's download function(as a zip file!) and create and run:
 ```
 git init
