@@ -1,0 +1,2 @@
+rm .gitmodules
+git init
